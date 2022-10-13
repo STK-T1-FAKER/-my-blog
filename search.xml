@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>数电网课（王红）学习记录</title>
+      <link href="/post/f4bcb238.html"/>
+      <url>/post/f4bcb238.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="2022-10-13"><a href="#2022-10-13" class="headerlink" title="2022.10.13"></a>2022.10.13</h1><h2 id="绪论、信息与编码"><a href="#绪论、信息与编码" class="headerlink" title="绪论、信息与编码"></a>绪论、信息与编码</h2><h3 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h3><p><strong>电子电路的作用：处理信息、能量转换。</strong></p><p>模拟电路：用连续的模拟电压/流值来表示信息。</p><p>数字电路：用一个离散的电压序列来表示信息。</p><p>what do we see？</p><p>结构</p><ul><li><p>分层设计</p></li><li><p>每层限制复杂度</p></li><li><p>building blocks可复用</p></li></ul><p>接口(interface)</p><ul><li><p>key elements of engineering</p></li><li><p>isolate technologies,(隔离技术) allow evolution</p></li><li><p>major abstraction mechanism</p></li></ul><p>What makes a good system design?</p><ul><li><p>minimal mechanism, maximal function</p></li><li><p>reliable in a wide range of environments</p></li><li><p>accommodates future technical improvements</p></li></ul><p>这学期要做的事情</p><ul><li><p>understand how things work. bottom-up(从底层向上，理解原理)</p></li><li><p>encapsulate our understanding using appropriate abstractions（知道理论基础）</p></li><li><p>study organizational principles: abstractions, interfaces,API(Application Programming Interface)</p></li><li><p>roll up our sleeves and design at each level of hierarchy（设计电路）</p><h3 id="第一章-信息和编码"><a href="#第一章-信息和编码" class="headerlink" title="第一章 信息和编码"></a>第一章 信息和编码</h3><p>——了解编码的目的，了解二进制编码。</p><p>编码的目的：把要处理的信息在电路中表达出来</p><p>一个信息如果有信息量，那一定是有不可预见性的。</p><p>信息消除不确定性</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇blog</title>
+      <link href="/post/ff05b5bf.html"/>
+      <url>/post/ff05b5bf.html</url>
+      
+        <content type="html"><![CDATA[<hr><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello!&quot;</span>);</span><br><span class="line"><span class="comment">//就想看看代码块里能不能有中文</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p>四八啦撒旦撒旦啊大苏打阿斯顿撒旦撒旦阿斯顿</p><p><img src="C:\Users\panda\Desktop\3booc\themes\butterfly\source\img\73718346_p0_master1200.jpg" alt="假装是图片的描述"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随便写写 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录词汇</title>
+      <link href="/post/ac2d2d61.html"/>
+      <url>/post/ac2d2d61.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="一、数电"><a href="#一、数电" class="headerlink" title="一、数电"></a>一、数电</h1><h2 id="2022-10-13"><a href="#2022-10-13" class="headerlink" title="2022.10.13"></a>2022.10.13</h2><p>1.continuous——连续的</p><p>2.versus——对</p><p>3.discrete——离散的</p><p>4.electric current and voltage——电流和电压</p><p>5.circuit board——电路板</p><p>6.intergrated circuit——集成电路</p><p>7.module——模块、组件</p><p>8.scheme——计划、系统、草图</p><p>9.hierarchical design——分层设计</p><p>10.abstraction——抽象概念</p><p>11.mechanism——机械装置、方法、构造</p><p>12.interface——接口</p><p>13.bottom-up ——自底层向上</p><p>14.encapsulate——（v）概括，简述</p><p>15.Application Program Interface——接口</p><p>16.roll up our sleeves——卷起袖子</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
